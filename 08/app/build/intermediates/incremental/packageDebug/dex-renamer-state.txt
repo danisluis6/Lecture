@@ -1,4 +1,4 @@
-#Fri Oct 28 19:49:17 ICT 2016
-base.0=/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Sun Oct 30 12:25:00 ICT 2016
+base.0=/home/vuongluis/Git/Lecture/08/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/home/vuongluis/Git/Lecture/08/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

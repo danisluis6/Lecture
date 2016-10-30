@@ -5,32 +5,32 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="5271776829744"
-    token="-4763295274499744300"
+    timestamp="3406261319055"
+    token="-3065778157157950948"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="3714" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="574" />
     <task
         name="verifier"
-        duration="0" />
+        duration="10" />
 
     <artifact
-        location="/home/vuongluis/Downloads/DemoAndroid1/app/build/outputs/apk/app-debug.apk"
+        location="/home/vuongluis/Git/Lecture/08/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="5271776829744"
+        timestamp="3406261319055"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/vuongluis/Downloads/DemoAndroid1/app/build/outputs/apk/app-debug.apk"
+            location="/home/vuongluis/Git/Lecture/08/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 
