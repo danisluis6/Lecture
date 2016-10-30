@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_859935b98c468d60696b5ec1839cd4f78114a53f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_46c828b66fc2d86d08299141089bd1c77f73be42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_56d7e9d0ba315d81695c809c96efc6a241ff4a31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c40787117878ebe61e7ad27b84cc53d788ec85fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e679a7df9936d7f4ee167269618264e52531f4b">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/instant-run_1ab9ff1149e0c3e3c7e8d5803c9118189ce50cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_a10c2f4b2a63cd9ce23b7c521c8a67ef3238a2e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a143cb86674ce0fe30eb84d050e5929ef3e7138a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_254f6430c7e3ec43d276c25a28f9885062e26070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_4a2f6beb4567e027d1abe60ddd05295345da6d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_a6a0eb7e2abf3dd6575f5aa9d0730d81de54a1f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_7ce0d3cf2d8e6c0c0143568c13876f1a8ad0f299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_6f0e28fe6ad5e0e0b471b02c35d3e7497f6088e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b08fc215e92c21bff3a52e50f935f681855a8bdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_ead2b27adb4539b30b87c6a021fe7f9659021364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_bb784488770f28353023c83e8d8c147c5a6570ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_469e5c680e586865fae8dcd3cf316c932877bb33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90d3105bb6d846ed61d336039e9d02e0967c1b91">
+        <dex dex="/home/vuongluis/Downloads/DemoAndroid1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_4a870ccdb972633fd073c8abc56dd5dc8aa11147.jar" />
+    </item>
+
+</items>
