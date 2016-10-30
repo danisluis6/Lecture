@@ -3,10 +3,10 @@
 - Description: List View
 - Trick: ExRecycle to custom ListView following personal
 # Create a new app [Buoi7]
-![alt tag](https://github.com/luisnguyen/InterRubyOnRails/blob/master/TravelApp/1.png)
+![alt tag](https://github.com/danisluis6/Lecture/blob/master/07/1.png)
 
     In app/models/tag.rb add a has_many method, like this: 
 
 # Analysis  project to understanding
-![alt tag](https://github.com/luisnguyen/InterRubyOnRails/blob/master/TravelApp/1.png)
+![alt tag](https://github.com/danisluis6/Lecture/blob/master/07/2.png)
 
