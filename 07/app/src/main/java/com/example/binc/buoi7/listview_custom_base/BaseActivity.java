@@ -39,18 +39,6 @@ public class BaseActivity extends AppCompatActivity {
 
         mUsers.add(new User("SamSung", "aaaaaaaaaaa"));
         mUsers.add(new User("SamSung1", "aaaaaaaaaaa1"));
-        mUsers.add(new User("SamSung2", "aaaaaaaaaaa2"));
-        mUsers.add(new User("SamSung3", "aaaaaaaaaaa3"));
-        mUsers.add(new User("SamSung4", "aaaaaaaaaaa4"));
-        mUsers.add(new User("SamSung5", "aaaaaaaaaaa5"));
-        mUsers.add(new User("SamSung6", "aaaaaaaaaaa6"));
-        mUsers.add(new User("SamSung7", "aaaaaaaaaaa7"));
-        mUsers.add(new User("SamSung8", "aaaaaaaaaaa8"));
-        mUsers.add(new User("SamSung9", "aaaaaaaaaaa9"));
-        mUsers.add(new User("SamSung10", "aaaaaaaaaaa10"));
-        mUsers.add(new User("SamSung11", "aaaaaaaaaaa11"));
-        mUsers.add(new User("SamSung12", "aaaaaaaaaaa12"));
-        mUsers.add(new User("SamSung13", "aaaaaaaaaaa13"));
 
 
         mCustomListAdapter = new CustomListAdapter(this, mUsers);

@@ -39,21 +39,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/vuongluis/Git/Lecture/07/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="/home/vuongluis/Git/Lecture/07/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_d6cd840eebad2c4279bd847dc92234c14ac58bfe.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/vuongluis/Downloads/Buoi7/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
         <dex dex="/home/vuongluis/Downloads/Buoi7/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_33a3d2cf2a6c063a3ce332c95a74e997a68f70d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Git/Lecture/07/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/vuongluis/Git/Lecture/07/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_d6cd840eebad2c4279bd847dc92234c14ac58bfe.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,21 +156,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/vuongluis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="/home/vuongluis/Downloads/Buoi7/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_4a2f6beb4567e027d1abe60ddd05295345da6d47.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/vuongluis/Git/Lecture/07/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
         <dex dex="/home/vuongluis/Git/Lecture/07/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_90fef721404eb06d03ec14d5a4542cfca1b6c67d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/vuongluis/Downloads/Buoi7/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_4a2f6beb4567e027d1abe60ddd05295345da6d47.jar" />
     </item>
     <item
         is-multidex="false"
@@ -201,21 +201,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/vuongluis/Downloads/Buoi7/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/home/vuongluis/Downloads/Buoi7/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_41ca424bade9cb4021192c773afe6bc8f0f944f8.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/vuongluis/Downloads/Buoi7/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
         <dex dex="/home/vuongluis/Downloads/Buoi7/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_5b78286ec3134eee4a22cc5c6dc191695f2922d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vuongluis/Downloads/Buoi7/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/vuongluis/Downloads/Buoi7/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_41ca424bade9cb4021192c773afe6bc8f0f944f8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -241,7 +241,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="a2b22918dc1f192de2c58ef0ccef0e749b363fb1">
+        sha1="ab5b3f7ab77b05acb353b83dbb9a0cfa1c44da9a">
         <dex dex="/home/vuongluis/Git/Lecture/07/app/build/intermediates/pre-dexed/debug/instant-run_7032075e2065273b5a5f4e678c0d728ad6cb69b9.jar" />
     </item>
     <item
@@ -250,7 +250,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="3de62ad07e9a6bcb7c45b7fe868b9c10cfd3d0d7">
+        sha1="ec6536245645372faf1ff4f20f5eda37947ad870">
         <dex dex="/home/vuongluis/Git/Lecture/07/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f0fe84690cc4769e9d4403596e61bdfc5e63c49a.jar" />
     </item>
     <item
