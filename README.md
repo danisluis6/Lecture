@@ -283,4 +283,59 @@
 
 ![alt tag](https://github.com/danisluis6/Lecture/blob/master/07/5.png)
 
+# Fix Error Bundle Quickly
+
+    // Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+	buildscript {
+	    repositories {
+		jcenter()
+	    }
+	    dependencies {
+		classpath 'com.android.tools.build:gradle:2.2.2'
+
+		// NOTE: Do not place your application dependencies here; they belong
+		// in the individual module build.gradle files
+	    }
+	}
+
+	allprojects {
+	    repositories {
+		jcenter()
+	    }
+	}
+
+    -- app[Gradle]
+
+    	apply plugin: 'com.android.application'
+
+	android {
+	    compileSdkVersion 25
+	    buildToolsVersion "25.0.0"
+	    defaultConfig {
+		applicationId "vn.udn.dut.loginfacebookapp"
+		minSdkVersion 15
+		targetSdkVersion 25
+		versionCode 1
+		versionName "1.0"
+		testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+	    }
+	    buildTypes {
+		release {
+		    minifyEnabled false
+		    proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+		}
+	    }
+	}
+
+	dependencies {
+	    compile fileTree(dir: 'libs', include: ['*.jar'])
+	    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+		exclude group: 'com.android.support', module: 'support-annotations'
+	    })
+	    compile 'com.android.support:appcompat-v7:25.0.0'
+	    testCompile 'junit:junit:4.12'
+	}
+
+
 
